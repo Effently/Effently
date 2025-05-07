@@ -1,4 +1,3 @@
-## Hi there
 
 - 👋 I’m Effently
 - 🔭 I’m currently working on ...
