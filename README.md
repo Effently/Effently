@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 💬 How to reach me:
-  - telegram [@effently](https://t.me/effently) ╱ discord: @efflyown ╱ nerimity: xdfb:ruDY
+  - discord: @efflyown ╱ nerimity: xdfb:ruDY
 
